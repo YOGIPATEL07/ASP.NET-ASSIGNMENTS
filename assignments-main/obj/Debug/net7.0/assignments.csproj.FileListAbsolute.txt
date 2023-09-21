@@ -1,0 +1,90 @@
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\bin\Debug\net7.0\appsettings.json
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\bin\Debug\net7.0\assignments.staticwebassets.runtime.json
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\bin\Debug\net7.0\assignments.exe
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\bin\Debug\net7.0\assignments.deps.json
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\bin\Debug\net7.0\assignments.runtimeconfig.json
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\bin\Debug\net7.0\assignments.dll
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\bin\Debug\net7.0\assignments.pdb
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\assignments.AssemblyInfoInputs.cache
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\assignments.AssemblyInfo.cs
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\assignments.csproj.CoreCompileInputs.cache
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\assignments.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\assignments.RazorAssemblyInfo.cache
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\assignments.RazorAssemblyInfo.cs
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\staticwebassets\msbuild.assignments.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\staticwebassets\msbuild.build.assignments.props
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.assignments.props
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.assignments.props
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\scopedcss\bundle\assignments.styles.css
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\scopedcss\projectbundle\assignments.bundle.scp.css
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\assignments.dll
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\refint\assignments.dll
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\assignments.pdb
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\assignments.genruntimeconfig.cache
+C:\Users\aryan\Desktop\semester3\asp.net\class1\assignments\obj\Debug\net7.0\ref\assignments.dll
+D:\sem-3\.net\assignments\bin\Debug\net7.0\appsettings.Development.json
+D:\sem-3\.net\assignments\bin\Debug\net7.0\appsettings.json
+D:\sem-3\.net\assignments\bin\Debug\net7.0\assignments.staticwebassets.runtime.json
+D:\sem-3\.net\assignments\bin\Debug\net7.0\assignments.exe
+D:\sem-3\.net\assignments\bin\Debug\net7.0\assignments.deps.json
+D:\sem-3\.net\assignments\bin\Debug\net7.0\assignments.runtimeconfig.json
+D:\sem-3\.net\assignments\bin\Debug\net7.0\assignments.dll
+D:\sem-3\.net\assignments\bin\Debug\net7.0\assignments.pdb
+D:\sem-3\.net\assignments\obj\Debug\net7.0\assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem-3\.net\assignments\obj\Debug\net7.0\assignments.AssemblyInfoInputs.cache
+D:\sem-3\.net\assignments\obj\Debug\net7.0\assignments.AssemblyInfo.cs
+D:\sem-3\.net\assignments\obj\Debug\net7.0\assignments.csproj.CoreCompileInputs.cache
+D:\sem-3\.net\assignments\obj\Debug\net7.0\assignments.MvcApplicationPartsAssemblyInfo.cache
+D:\sem-3\.net\assignments\obj\Debug\net7.0\assignments.RazorAssemblyInfo.cache
+D:\sem-3\.net\assignments\obj\Debug\net7.0\assignments.RazorAssemblyInfo.cs
+D:\sem-3\.net\assignments\obj\Debug\net7.0\staticwebassets\msbuild.assignments.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sem-3\.net\assignments\obj\Debug\net7.0\staticwebassets\msbuild.build.assignments.props
+D:\sem-3\.net\assignments\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.assignments.props
+D:\sem-3\.net\assignments\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.assignments.props
+D:\sem-3\.net\assignments\obj\Debug\net7.0\staticwebassets.pack.json
+D:\sem-3\.net\assignments\obj\Debug\net7.0\staticwebassets.build.json
+D:\sem-3\.net\assignments\obj\Debug\net7.0\staticwebassets.development.json
+D:\sem-3\.net\assignments\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\sem-3\.net\assignments\obj\Debug\net7.0\scopedcss\bundle\assignments.styles.css
+D:\sem-3\.net\assignments\obj\Debug\net7.0\scopedcss\projectbundle\assignments.bundle.scp.css
+D:\sem-3\.net\assignments\obj\Debug\net7.0\assignments.dll
+D:\sem-3\.net\assignments\obj\Debug\net7.0\refint\assignments.dll
+D:\sem-3\.net\assignments\obj\Debug\net7.0\assignments.pdb
+D:\sem-3\.net\assignments\obj\Debug\net7.0\assignments.genruntimeconfig.cache
+D:\sem-3\.net\assignments\obj\Debug\net7.0\ref\assignments.dll
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\bin\Debug\net7.0\appsettings.Development.json
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\bin\Debug\net7.0\appsettings.json
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\bin\Debug\net7.0\assignments.staticwebassets.runtime.json
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\bin\Debug\net7.0\assignments.exe
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\bin\Debug\net7.0\assignments.deps.json
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\bin\Debug\net7.0\assignments.runtimeconfig.json
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\bin\Debug\net7.0\assignments.dll
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\bin\Debug\net7.0\assignments.pdb
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\assignments.AssemblyInfoInputs.cache
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\assignments.AssemblyInfo.cs
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\assignments.csproj.CoreCompileInputs.cache
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\assignments.MvcApplicationPartsAssemblyInfo.cache
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\assignments.RazorAssemblyInfo.cache
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\assignments.RazorAssemblyInfo.cs
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\staticwebassets\msbuild.assignments.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\staticwebassets\msbuild.build.assignments.props
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.assignments.props
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.assignments.props
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\staticwebassets.pack.json
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\staticwebassets.build.json
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\staticwebassets.development.json
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\scopedcss\bundle\assignments.styles.css
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\scopedcss\projectbundle\assignments.bundle.scp.css
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\assignments.dll
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\refint\assignments.dll
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\assignments.pdb
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\assignments.genruntimeconfig.cache
+D:\SEMESTER3\ASP.NET\assignments\assignments-main (1)\assignments-main\obj\Debug\net7.0\ref\assignments.dll
